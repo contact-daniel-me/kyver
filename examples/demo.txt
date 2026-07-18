@@ -1,0 +1,1 @@
+This folder contains examples of how a .kyver directory is structured.

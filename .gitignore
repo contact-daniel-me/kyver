@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Tests
+*.test
+*.out
+
+# Profiling
+*.prof
+
+# OS
+.DS_Store
+
+# Scratch
+test_fix.go
+.kyver/
